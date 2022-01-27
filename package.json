@@ -1,0 +1,21 @@
+{
+  "name": "git-business",
+  "version": "1.0.0",
+  "description": "business-project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d1313113/git-business.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d1313113/git-business/issues"
+  },
+  "homepage": "https://github.com/d1313113/git-business#readme"
+}
